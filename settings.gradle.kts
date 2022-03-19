@@ -1,0 +1,1 @@
+rootProject.name = "kastro.dev.users-api"
